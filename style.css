@@ -71,6 +71,9 @@
     font-size: 1em;
     font-weight: 600;
 }
+.pill:hover{
+    background-color: #0768f8;
+}
 .card_footer{
     margin-top: 1em;
     padding: 1em;
@@ -92,6 +95,7 @@ iconify-icon{
 .card_footer_text{
     font-size: 1.2em;
 }
+/* 0768F8 */
 @media(max-width:762px){
     .card{
         height: 100vh;
